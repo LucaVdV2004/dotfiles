@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luca.voo@alunosp.colegiomaterdei.net
+	name = luca van der voo
